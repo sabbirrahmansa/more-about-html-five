@@ -1,0 +1,27 @@
+
+#form-section{
+    background-color: rgba(150, 97, 73, 0.315);
+    padding: 32px;
+}
+#form-container{
+    border: 2px solid teal;
+    background-color:slategray;
+    padding: 8px;
+    border-radius: 16px;
+    width: 20%;
+    
+    text-align: center;
+    margin: auto;
+   font-size: 20px;
+   color:darkmagenta;
+
+}
+ form > label{
+    display: block;
+    margin-top: 8px;
+ }
+ button{
+    margin-top: 8px;
+    padding: 8px;
+    width: auto;
+ }
